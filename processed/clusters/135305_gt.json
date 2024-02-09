@@ -1,1 +1,1 @@
-{"game_id": "135305", "country": "gt", "data": [{"region": "Guatemala", "min": 52, "max": 81, "coverage": 75.0, "n_users": 6}, {"region": "Guatemala", "min": 68, "max": 91, "coverage": 25.0, "n_users": 2}], "last_updated": 1707422156.838871}
+{"game_id": "135305", "country": "gt", "data": [{"region": "Guatemala", "min": 52, "max": 81, "coverage": 62.5, "n_users": 5}, {"region": "Guatemala", "min": 68, "max": 91, "coverage": 37.5, "n_users": 3}], "last_updated": 1707436896.758745}

@@ -1,1 +1,1 @@
-{"game_id": "742409", "country": "ar", "data": [{"region": "Mendoza", "min": 38, "max": 52, "coverage": 100.0, "n_users": 1}], "last_updated": 1709109728.861837}
+{"game_id": "742409", "country": "ar", "data": [{"region": "3844419", "min": 38, "max": 54, "coverage": 50.0, "n_users": 1}, {"region": "3844419", "min": 58, "max": 81, "coverage": 50.0, "n_users": 1}], "last_updated": 1709138599.368827}

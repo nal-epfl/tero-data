@@ -1,1 +1,1 @@
-{"game_id": "128974", "country": "jm", "data": [{"region": "Kingston", "min": 72, "max": 97, "coverage": 100.0, "n_users": 1}], "last_updated": 1709109728.6901}
+{"game_id": "128974", "country": "jm", "data": [{"region": "3489853", "min": 71, "max": 98, "coverage": 50.0, "n_users": 1}, {"region": "3489853", "min": 39, "max": 62, "coverage": 50.0, "n_users": 1}], "last_updated": 1709138599.158669}

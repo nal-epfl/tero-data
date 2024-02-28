@@ -1,1 +1,1 @@
-{"game_id": "314852", "country": "tw", "data": [{"region": "\u65b0\u5317\u5e02", "min": 70, "max": 97, "coverage": 100.0, "n_users": 3}, {"region": "\u81fa\u5317\u5e02", "min": 60, "max": 64, "coverage": 100.0, "n_users": 1}], "last_updated": 1709109728.703996}
+{"game_id": "314852", "country": "tw", "data": [{"region": "60655699", "min": 67, "max": 92, "coverage": 80.0, "n_users": 4}, {"region": "60655699", "min": 2, "max": 11, "coverage": 20.0, "n_users": 1}, {"region": "1147314253", "min": 48, "max": 70, "coverage": 100.0, "n_users": 2}], "last_updated": 1709138599.190016}

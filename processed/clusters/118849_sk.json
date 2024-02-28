@@ -1,1 +1,1 @@
-{"game_id": "118849", "country": "sk", "data": [{"region": "Nitriansky kraj", "min": 45, "max": 59, "coverage": 100.0, "n_users": 1}, {"region": "Ko\u0161ick\u00fd kraj", "min": 43, "max": 45, "coverage": 100.0, "n_users": 1}], "last_updated": 1709109728.789745}
+{"game_id": "118849", "country": "sk", "data": [{"region": "3056506", "min": 7, "max": 36, "coverage": 100.0, "n_users": 2}, {"region": "3343956", "min": 45, "max": 59, "coverage": 100.0, "n_users": 1}], "last_updated": 1709138599.239039}

@@ -1,1 +1,1 @@
-{"game_id": "295590", "country": "zw", "data": [{"region": "Harare Province", "min": 2, "max": 17, "coverage": 100.0, "n_users": 1}, {"region": "Bulawayo Province", "min": 12, "max": 14, "coverage": 100.0, "n_users": 1}], "last_updated": 1709109728.494328}
+{"game_id": "295590", "country": "zw", "data": [{"region": "1105843", "min": 1, "max": 14, "coverage": 100.0, "n_users": 1}, {"region": "1105844", "min": 2, "max": 17, "coverage": 100.0, "n_users": 1}], "last_updated": 1709138598.969791}

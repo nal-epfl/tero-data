@@ -1,1 +1,1 @@
-{"game_id": "970338", "country": "cl", "data": [{"region": "Regi\u00f3n Metropolitana de Santiago", "min": 176, "max": 186, "coverage": 100.0, "n_users": 1}], "last_updated": 1709109728.84764}
+{"game_id": "970338", "country": "cl", "data": [{"region": "3873544", "min": 176, "max": 186, "coverage": 50.0, "n_users": 1}, {"region": "3873544", "min": 260, "max": 261, "coverage": 50.0, "n_users": 1}], "last_updated": 1709138599.316367}

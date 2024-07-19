@@ -1,4 +1,16 @@
+# Tero dataset:
+
 The data is json-formatted in utf8 encoding.
+
+--------------------------------------------------
+## Important note:
+
+**Until further notice, due to privacy concerns, the data format has been modified as follows:**
+
+1. No user_id is mentioned.
+2. All latency datapoint are rounded to the closest hour.
+
+
 
 Files:
 ----------
